@@ -1,0 +1,6 @@
+.venv
+/tmp
+/imgs
+/model
+/view_info
+__pycache__
